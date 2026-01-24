@@ -1,0 +1,13 @@
+// Inorder Predecessor
+// if(!root->left) return NULL;
+// TreeNode* pred = root->left;
+// while(pred->right)
+//     pred = pred->right;
+// return pred;
+
+// Inorder Successor
+// if(!root->right) return NULL;
+// TreeNode* succ = root->right;
+// while(succ->left)
+//     succ = succ->left;
+// return left;

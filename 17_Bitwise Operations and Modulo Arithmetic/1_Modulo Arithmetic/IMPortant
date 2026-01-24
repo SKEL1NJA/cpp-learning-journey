@@ -1,0 +1,7 @@
+Important formulaes --> will help in `cp`
+
+# (a + b) % c = (a%c + b%c) % c #
+# (a * b) % c = (a%c * b%c) % c #
+# (a - b) % c = (a%c - b%c + c) % c #
+
+`Note: Consider very large numbers like INT_MAX where value can overflow`

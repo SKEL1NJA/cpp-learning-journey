@@ -1,0 +1,7 @@
+.vscode/
+_vscode_backup/
+
+*.exe
+*.out
+*.o
+*.obj
