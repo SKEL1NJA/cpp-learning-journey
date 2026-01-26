@@ -6,40 +6,41 @@ The goal of this repository is to **build strong fundamentals**, practice proble
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 The repository is organized topic-wise for better clarity and revision:
 
+```text
 C++
 │── 1_Basic/
 │── 2_Conditions/
 │── 3_Loop/
-│── 4_Pattern Printing/
+│── 4_Pattern_Printing/
 │── 5_Functions/
 │── 6_Pointers/
 │── 7_Arrays&Vectors/
 │── 8_MultidimensionalArrays&Vectors/
 │── 9_Strings/
-│── 10_Time and Space Complexity/
+│── 10_Time_and_Space_Complexity/
 │── 11_Recursion/
 │── 12_Linear&BinarySearch/
 │── 13_BasicSortingAlgorithms/
-│── 14_Advanced Sorting/
-│── 15_Prefix Sum/
-│── 16_Sliding Window/
-│── 17_Bitwise Operations and Modulo Arithmetic/
-│── 18_Math and Prime Numbers/
+│── 14_Advanced_Sorting/
+│── 15_Prefix_Sum/
+│── 16_Sliding_Window/
+│── 17_Bitwise_Operations_and_Modulo_Arithmetic/
+│── 18_Math_and_Prime_Numbers/
 │── 19_OOPS/
 │── 20_LinkedList/
-│── 21_Self Assessment/
+│── 21_Self_Assessment/
 │── 22_Stacks/
-│── 23_Infix Prefix Postfix/
+│── 23_Infix_Prefix_Postfix/
 │── 24_Queue/
 │── 25_Trees/
 │── 26_BST/
-│── 27_Set and Map/
+│── 27_Set_and_Map/
 │── 28_Heaps/
-│── 29_Dynamic Programming/
+│── 29_Dynamic_Programming/
 
 
 Each folder contains:
