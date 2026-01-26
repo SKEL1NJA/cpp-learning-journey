@@ -8,8 +8,6 @@ The goal of this repository is to **build strong fundamentals**, practice proble
 
 ## 📁 Repository Structure
 
-The repository is organized topic-wise for better clarity and revision:
-
 ```text
 C++
 │── 1_Basic/
@@ -41,6 +39,7 @@ C++
 │── 27_Set_and_Map/
 │── 28_Heaps/
 │── 29_Dynamic_Programming/
+```
 
 
 Each folder contains:
